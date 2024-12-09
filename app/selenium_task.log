@@ -175,3 +175,75 @@ Stacktrace:
 2024-12-09 12:06:01.260744 - Login completed successfully.
 2024-12-09 12:06:18.032742 - Patient details entered.
 2024-12-09 12:06:19.390993 - Patient saved successfully.
+2024-12-09 15:54:33.107095 - Starting selenium_task for patient_id: 21
+2024-12-09 15:54:33.341750 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'mark', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': None, 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-29', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T15:54:32.470Z', 'updated_at': '2024-12-09T15:54:32.470Z', 'web_upload_status': 'Uploaded', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-09 15:55:13.436371 - Timeout waiting for element: //input[@id='Email']
+2024-12-09 15:55:43.534082 - WebDriver error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=131.0.6778.108); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5ae805a5c34a <unknown>
+#1 0x5ae8055726e0 <unknown>
+#2 0x5ae8055c13e6 <unknown>
+#3 0x5ae8055c1681 <unknown>
+#4 0x5ae805606b04 <unknown>
+#5 0x5ae8055e548d <unknown>
+#6 0x5ae805603ed7 <unknown>
+#7 0x5ae8055e5203 <unknown>
+#8 0x5ae8055b3cc0 <unknown>
+#9 0x5ae8055b4c9e <unknown>
+#10 0x5ae805a29d3b <unknown>
+#11 0x5ae805a2dcc2 <unknown>
+#12 0x5ae805a16b6c <unknown>
+#13 0x5ae805a2e837 <unknown>
+#14 0x5ae8059fc10f <unknown>
+#15 0x5ae805a4b5a8 <unknown>
+#16 0x5ae805a4b770 <unknown>
+#17 0x5ae805a5b1c6 <unknown>
+#18 0x77f317694ac3 <unknown>
+
+2024-12-09 15:58:05.942925 - Starting selenium_task for patient_id: 22
+2024-12-09 15:58:06.085531 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'mark', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': None, 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-29', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T15:58:05.528Z', 'updated_at': '2024-12-09T15:58:05.528Z', 'web_upload_status': 'Uploaded', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-09 15:58:43.631446 - Timeout waiting for element: //input[@id='Email']
+2024-12-09 15:59:13.720200 - WebDriver error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=131.0.6778.108); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57dc1480e34a <unknown>
+#1 0x57dc143246e0 <unknown>
+#2 0x57dc143733e6 <unknown>
+#3 0x57dc14373681 <unknown>
+#4 0x57dc143b8b04 <unknown>
+#5 0x57dc1439748d <unknown>
+#6 0x57dc143b5ed7 <unknown>
+#7 0x57dc14397203 <unknown>
+#8 0x57dc14365cc0 <unknown>
+#9 0x57dc14366c9e <unknown>
+#10 0x57dc147dbd3b <unknown>
+#11 0x57dc147dfcc2 <unknown>
+#12 0x57dc147c8b6c <unknown>
+#13 0x57dc147e0837 <unknown>
+#14 0x57dc147ae10f <unknown>
+#15 0x57dc147fd5a8 <unknown>
+#16 0x57dc147fd770 <unknown>
+#17 0x57dc1480d1c6 <unknown>
+#18 0x7edf54894ac3 <unknown>
+
+2024-12-09 16:00:28.103601 - Starting selenium_task for patient_id: 23
+2024-12-09 16:00:28.309379 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'mark', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': None, 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-29', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T16:00:27.704Z', 'updated_at': '2024-12-09T16:00:27.704Z', 'web_upload_status': 'Uploaded', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-09 16:01:16.821566 - Login completed successfully.
+2024-12-09 16:01:55.065691 - Patient details entered.
+2024-12-09 16:01:56.392847 - Patient saved successfully.
+2024-12-09 16:04:55.692655 - Starting selenium_task for patient_id: 24
+2024-12-09 16:04:55.886089 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'mark', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': None, 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-29', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T16:04:55.321Z', 'updated_at': '2024-12-09T16:04:55.321Z', 'web_upload_status': 'Uploaded', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-09 16:05:35.639768 - Login completed successfully.
+2024-12-09 16:05:49.685935 - Patient details entered.
+2024-12-09 16:05:51.545755 - Patient saved successfully.
+2024-12-09 16:06:50.301293 - Starting selenium_task for patient_id: 25
+2024-12-09 16:06:50.526001 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'mark', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': None, 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-29', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T16:06:50.198Z', 'updated_at': '2024-12-09T16:06:50.198Z', 'web_upload_status': 'Uploaded', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-09 16:06:59.678571 - Login completed successfully.
+2024-12-09 16:07:13.268470 - Patient details entered.
+2024-12-09 16:07:14.522128 - Patient saved successfully.
+2024-12-09 17:59:46.462529 - Starting selenium_task for patient_id: 26
+2024-12-09 17:59:46.667830 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'mark', 'middle_name': None, 'last_name': 'luis', 'mobile_number': '09140240890', 'home_phone_number': '091402408', 'email': '20rfdgd04anshu@gmail.com', 'address_line_1': 'usnfg', 'city': 'fdh', 'state': 'fdgd', 'zip_code': '436354', 'preferred_contact_method': 'Phone', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-28', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-22', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T17:59:46.048Z', 'updated_at': '2024-12-09T17:59:46.048Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': '', 'eligibility_status': 'nkljnbl'}
+2024-12-09 18:00:03.434774 - Login completed successfully.
+2024-12-09 18:00:23.482726 - Patient details entered.
+2024-12-09 18:00:25.361018 - Patient saved successfully.

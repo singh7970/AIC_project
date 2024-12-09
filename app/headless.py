@@ -22,7 +22,6 @@ def log_message(message):
     with open(LOG_FILE, "a") as log_file:
         log_file.write(f"{datetime.now()} - {message}\n")
 
-
 def wait_for_element_presence(driver, by, locator, timeout=20):
     """Waits for an element to be present."""
     try:
@@ -31,7 +30,6 @@ def wait_for_element_presence(driver, by, locator, timeout=20):
     except TimeoutException:
         log_message(f"Timeout waiting for element: {locator}")
         return None
-
 
 @shared_task
 def selenium_task(patient_id):
@@ -49,11 +47,13 @@ def selenium_task(patient_id):
         log_message(f"Error fetching patient data: {e}")
         return
 
-
-    
     # Initialize Selenium
     chrome_options = Options()
-    chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")  # Debugging port setup
+    chrome_options.add_argument("--headless")  # Run in headless mode
+    chrome_options.add_argument("--no-sandbox")  # Required for running as root
+    chrome_options.add_argument("--disable-dev-shm-usage")  # Overcome limited resource issues
+    chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
+    chrome_options.add_argument("--window-size=1920,1080")  # Ensure elements are in view
 
     try:
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
@@ -78,19 +78,16 @@ def selenium_task(patient_id):
         driver.switch_to.frame(iframe_element)
 
         # Fill form
+        print("fill the form")
         driver.find_element(By.ID, "txtFirstName").send_keys(patient_data.get("first_name", ""))
         driver.find_element(By.ID, "txtLastName").send_keys(patient_data.get("last_name", ""))
         driver.find_element(By.ID, "cldrDOB_dateInput").send_keys(patient_data.get("date_of_birth", ""))
         if patient_data.get("sex") == "Male":
-                radio_male = driver.find_element(By.XPATH, "//span[contains(text(), 'Male')]").click()
-                print("male click")    
-
+            driver.find_element(By.XPATH, "//span[contains(text(), 'Male')]").click()
         elif patient_data.get("sex") == "Female":
-                radio_female = driver.find_element(By.XPATH, "//span[contains(text(), 'Female')]").click()
+            driver.find_element(By.XPATH, "//span[contains(text(), 'Female')]").click()
         else:
-                
-            radio_unknown = driver.find_element(By.XPATH, "//span[contains(text(), 'Unknown')]").click()
-        print("gender done ")
+            driver.find_element(By.XPATH, "//span[contains(text(), 'Unknown')]").click()
         log_message("Patient details entered.")
 
         # Save patient
@@ -101,4 +98,5 @@ def selenium_task(patient_id):
     except WebDriverException as e:
         log_message(f"WebDriver error: {e}")
     finally:
+        print("done")
         driver.quit()
