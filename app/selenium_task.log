@@ -1,0 +1,177 @@
+2024-12-07 18:45:28.635388 - Starting selenium_task for patient_id: 1
+2024-12-07 18:45:28.695654 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': None, 'last_name': 'mark', 'mobile_number': '876543456', 'home_phone_number': '86436945', 'email': 'geihgv@gmail.com', 'address_line_1': 'iuewfdgb', 'city': 'jiwdb', 'state': 'ijuowdbq', 'zip_code': 'ijuqwbdp', 'preferred_contact_method': 'Email', 'referring_provider': 'i', 'date_of_birth': '2024-11-23', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-07T18:45:28.403Z', 'updated_at': '2024-12-07T18:45:28.403Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-07 18:45:28.695722 - Patient Date of Birth: 2024-11-23
+2024-12-07 18:47:02.490196 - Starting selenium_task for patient_id: 2
+2024-12-07 18:47:02.534084 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': None, 'last_name': 'mark', 'mobile_number': '876543456', 'home_phone_number': '86436945', 'email': 'geihgv@gmail.com', 'address_line_1': 'iuewfdgb', 'city': 'jiwdb', 'state': 'ijuowdbq', 'zip_code': 'ijuqwbdp', 'preferred_contact_method': 'Email', 'referring_provider': 'i', 'date_of_birth': '2024-11-23', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-07T18:47:02.279Z', 'updated_at': '2024-12-07T18:47:02.279Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-07 18:47:02.534182 - Patient Date of Birth: 2024-11-23
+2024-12-07 18:49:12.747013 - Starting selenium_task for patient_id: 3
+2024-12-07 18:49:12.789704 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': None, 'last_name': 'mark', 'mobile_number': '876543456', 'home_phone_number': '86436945', 'email': 'geihgv@gmail.com', 'address_line_1': 'iuewfdgb', 'city': 'jiwdb', 'state': 'ijuowdbq', 'zip_code': 'ijuqwbdp', 'preferred_contact_method': 'Email', 'referring_provider': 'i', 'date_of_birth': '2024-11-23', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-07T18:49:12.521Z', 'updated_at': '2024-12-07T18:49:12.521Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-07 18:49:12.789961 - Patient Date of Birth: 2024-11-23
+2024-12-08 09:41:09.020673 - Starting selenium_task for patient_id: 4
+2024-12-08 09:41:09.251123 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:41:08.134Z', 'updated_at': '2024-12-08T09:41:08.134Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:41:09.251321 - Patient Date of Birth: 2024-11-23
+2024-12-08 09:43:04.496391 - Starting selenium_task for patient_id: 5
+2024-12-08 09:43:04.649257 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:43:03.979Z', 'updated_at': '2024-12-08T09:43:03.979Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:43:04.649592 - Patient Date of Birth: 2024-11-23
+2024-12-08 09:45:36.008185 - Starting selenium_task for patient_id: 6
+2024-12-08 09:45:36.199776 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:45:35.614Z', 'updated_at': '2024-12-08T09:45:35.614Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:46:08.339183 - Timeout waiting for element: //input[@id='Email']
+2024-12-08 09:46:38.408594 - WebDriver error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=131.0.6778.108); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x57f0b86b634a <unknown>
+#1 0x57f0b81cc6e0 <unknown>
+#2 0x57f0b821b3e6 <unknown>
+#3 0x57f0b821b681 <unknown>
+#4 0x57f0b8260b04 <unknown>
+#5 0x57f0b823f48d <unknown>
+#6 0x57f0b825ded7 <unknown>
+#7 0x57f0b823f203 <unknown>
+#8 0x57f0b820dcc0 <unknown>
+#9 0x57f0b820ec9e <unknown>
+#10 0x57f0b8683d3b <unknown>
+#11 0x57f0b8687cc2 <unknown>
+#12 0x57f0b8670b6c <unknown>
+#13 0x57f0b8688837 <unknown>
+#14 0x57f0b865610f <unknown>
+#15 0x57f0b86a55a8 <unknown>
+#16 0x57f0b86a5770 <unknown>
+#17 0x57f0b86b51c6 <unknown>
+#18 0x77c67a294ac3 <unknown>
+
+2024-12-08 09:48:22.501945 - Starting selenium_task for patient_id: 7
+2024-12-08 09:48:22.628486 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:48:22.110Z', 'updated_at': '2024-12-08T09:48:22.110Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:48:28.236501 - Login completed successfully.
+2024-12-08 09:48:58.390175 - Timeout waiting for element: //h1[normalize-space()='Choose location']
+2024-12-08 09:49:28.487856 - WebDriver error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='highlight']//div[@class='login-option']"}
+  (Session info: chrome=131.0.6778.108); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x612bf2f9834a <unknown>
+#1 0x612bf2aae6e0 <unknown>
+#2 0x612bf2afd3e6 <unknown>
+#3 0x612bf2afd681 <unknown>
+#4 0x612bf2b42b04 <unknown>
+#5 0x612bf2b2148d <unknown>
+#6 0x612bf2b3fed7 <unknown>
+#7 0x612bf2b21203 <unknown>
+#8 0x612bf2aefcc0 <unknown>
+#9 0x612bf2af0c9e <unknown>
+#10 0x612bf2f65d3b <unknown>
+#11 0x612bf2f69cc2 <unknown>
+#12 0x612bf2f52b6c <unknown>
+#13 0x612bf2f6a837 <unknown>
+#14 0x612bf2f3810f <unknown>
+#15 0x612bf2f875a8 <unknown>
+#16 0x612bf2f87770 <unknown>
+#17 0x612bf2f971c6 <unknown>
+#18 0x7ab559494ac3 <unknown>
+
+2024-12-08 09:50:27.730537 - Starting selenium_task for patient_id: 8
+2024-12-08 09:50:27.868713 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:50:27.096Z', 'updated_at': '2024-12-08T09:50:27.097Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:50:33.322071 - Login completed successfully.
+2024-12-08 09:51:13.542943 - WebDriver error: Message: stale element reference: stale element not found
+  (Session info: chrome=131.0.6778.108); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x56bf8901934a <unknown>
+#1 0x56bf88b2f6e0 <unknown>
+#2 0x56bf88b40fbb <unknown>
+#3 0x56bf88b3fd45 <unknown>
+#4 0x56bf88b35d39 <unknown>
+#5 0x56bf88b340a0 <unknown>
+#6 0x56bf88b37968 <unknown>
+#7 0x56bf88b379f3 <unknown>
+#8 0x56bf88b8010a <unknown>
+#9 0x56bf88b72fee <unknown>
+#10 0x56bf88ba2462 <unknown>
+#11 0x56bf88b72a18 <unknown>
+#12 0x56bf88ba262e <unknown>
+#13 0x56bf88bc0ed7 <unknown>
+#14 0x56bf88ba2203 <unknown>
+#15 0x56bf88b70cc0 <unknown>
+#16 0x56bf88b71c9e <unknown>
+#17 0x56bf88fe6d3b <unknown>
+#18 0x56bf88feacc2 <unknown>
+#19 0x56bf88fd3b6c <unknown>
+#20 0x56bf88feb837 <unknown>
+#21 0x56bf88fb910f <unknown>
+#22 0x56bf890085a8 <unknown>
+#23 0x56bf89008770 <unknown>
+#24 0x56bf890181c6 <unknown>
+#25 0x78e4c9c94ac3 <unknown>
+
+2024-12-08 09:52:50.445892 - Starting selenium_task for patient_id: 9
+2024-12-08 09:52:50.585110 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:52:49.937Z', 'updated_at': '2024-12-08T09:52:49.937Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:52:57.625036 - Login completed successfully.
+2024-12-08 09:53:27.773959 - Timeout waiting for element: //h1[normalize-space()='Choose location']
+2024-12-08 09:53:57.876968 - WebDriver error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='highlight']//div[@class='login-option']"}
+  (Session info: chrome=131.0.6778.108); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x59b7bb9ae34a <unknown>
+#1 0x59b7bb4c46e0 <unknown>
+#2 0x59b7bb5133e6 <unknown>
+#3 0x59b7bb513681 <unknown>
+#4 0x59b7bb558b04 <unknown>
+#5 0x59b7bb53748d <unknown>
+#6 0x59b7bb555ed7 <unknown>
+#7 0x59b7bb537203 <unknown>
+#8 0x59b7bb505cc0 <unknown>
+#9 0x59b7bb506c9e <unknown>
+#10 0x59b7bb97bd3b <unknown>
+#11 0x59b7bb97fcc2 <unknown>
+#12 0x59b7bb968b6c <unknown>
+#13 0x59b7bb980837 <unknown>
+#14 0x59b7bb94e10f <unknown>
+#15 0x59b7bb99d5a8 <unknown>
+#16 0x59b7bb99d770 <unknown>
+#17 0x59b7bb9ad1c6 <unknown>
+#18 0x76c8c5a94ac3 <unknown>
+
+2024-12-08 09:55:34.570720 - Starting selenium_task for patient_id: 10
+2024-12-08 09:55:34.785023 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'zone', 'middle_name': 'lllllllll', 'last_name': 'datrk', 'mobile_number': '09140240890', 'home_phone_number': '43634563', 'email': 'y2032007454ansh346u@gmail.com', 'address_line_1': 'Gava46', 'city': 'Babbab46', 'state': 'us', 'zip_code': '22740945', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T09:55:33.718Z', 'updated_at': '2024-12-08T09:55:33.718Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 09:55:34.785278 - Patient Date of Birth: 2024-11-23
+2024-12-08 10:00:51.881692 - Starting selenium_task for patient_id: 11
+2024-12-08 10:00:52.032726 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'Priyanshu', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': '09140240890', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T10:00:51.371Z', 'updated_at': '2024-12-08T10:00:51.371Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 10:00:52.032989 - Patient Date of Birth: 2024-11-23
+2024-12-08 10:15:33.295113 - Starting selenium_task for patient_id: 12
+2024-12-08 10:15:33.450072 - Patient Fields: {'physician': 'vsdavdsa', 'first_name': 'Priyanshu', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': '09140240890', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T10:15:32.881Z', 'updated_at': '2024-12-08T10:15:32.881Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 10:15:33.450303 - Patient Date of Birth: 2024-11-23
+2024-12-08 10:20:35.497603 - Starting selenium_task for patient_id: 13
+2024-12-08 10:20:35.716167 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'Priyanshu', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': '09140240890', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T10:20:34.956Z', 'updated_at': '2024-12-08T10:20:34.956Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 10:20:44.875957 - Login completed successfully.
+2024-12-08 10:20:57.503445 - Patient details entered.
+2024-12-08 10:20:58.995498 - Patient saved successfully.
+2024-12-08 10:23:01.695206 - Starting selenium_task for patient_id: 14
+2024-12-08 10:23:01.850556 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'Priyanshu', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': '09140240890', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Female', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T10:23:01.311Z', 'updated_at': '2024-12-08T10:23:01.311Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 10:23:15.742830 - Login completed successfully.
+2024-12-08 10:23:28.519783 - Patient details entered.
+2024-12-08 10:23:29.781494 - Patient saved successfully.
+2024-12-08 10:27:27.549197 - Starting selenium_task for patient_id: 15
+2024-12-08 10:27:27.756116 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'Priyanshu', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': '09140240890', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T10:27:26.961Z', 'updated_at': '2024-12-08T10:27:26.961Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 10:27:37.096163 - Login completed successfully.
+2024-12-08 10:27:53.244418 - Patient details entered.
+2024-12-08 10:27:54.539066 - Patient saved successfully.
+2024-12-08 10:29:53.313949 - Starting selenium_task for patient_id: 16
+2024-12-08 10:29:53.441899 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'jone', 'middle_name': 'bjlblknb', 'last_name': 'layak', 'mobile_number': '39814025640', 'home_phone_number': '091403452408', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'us', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-28', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T10:29:53.259Z', 'updated_at': '2024-12-08T10:29:53.259Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 10:30:02.477897 - Login completed successfully.
+2024-12-08 10:30:15.120121 - Patient details entered.
+2024-12-08 10:30:16.429511 - Patient saved successfully.
+2024-12-08 13:42:03.142218 - Starting selenium_task for patient_id: 17
+2024-12-08 13:42:03.192147 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'jone', 'middle_name': 'bjlblknb', 'last_name': 'layak', 'mobile_number': '39814025640', 'home_phone_number': '091403452408', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'us', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-28', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T13:42:03.058Z', 'updated_at': '2024-12-08T13:42:03.058Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 13:42:07.471401 - Login completed successfully.
+2024-12-08 13:42:17.936025 - Patient details entered.
+2024-12-08 13:42:18.597682 - Patient saved successfully.
+2024-12-08 13:44:58.131241 - Starting selenium_task for patient_id: 18
+2024-12-08 13:44:58.188836 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'jone', 'middle_name': 'bjlblknb', 'last_name': 'layak', 'mobile_number': '39814025640', 'home_phone_number': '091403452408', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'us', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-28', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T13:44:58.085Z', 'updated_at': '2024-12-08T13:44:58.085Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 13:45:01.526335 - Login completed successfully.
+2024-12-08 13:45:11.544598 - Patient details entered.
+2024-12-08 13:45:12.047649 - Patient saved successfully.
+2024-12-08 13:47:42.141767 - Starting selenium_task for patient_id: 19
+2024-12-08 13:47:42.182108 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'jone', 'middle_name': 'bjlblknb', 'last_name': 'layak', 'mobile_number': '39814025640', 'home_phone_number': '091403452408', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'us', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-28', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-08T13:47:42.088Z', 'updated_at': '2024-12-08T13:47:42.088Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-08 13:47:48.954664 - Login completed successfully.
+2024-12-08 13:47:55.684147 - Patient details entered.
+2024-12-08 13:47:56.216686 - Patient saved successfully.
+2024-12-09 12:04:45.674026 - Starting selenium_task for patient_id: 20
+2024-12-09 12:04:46.198466 - Patient Data: {'physician': 'vsdavdsa', 'first_name': 'Priyanshu', 'middle_name': 'bjlblknb', 'last_name': 'Singh', 'mobile_number': '09140240890', 'home_phone_number': '09140240890', 'email': 'priy2032004anshu@gmail.com', 'address_line_1': 'Gava', 'city': 'Babbab', 'state': 'Uttar Pradesh', 'zip_code': '227409', 'preferred_contact_method': 'Email', 'referring_provider': '908760897097', 'date_of_birth': '2024-11-23', 'sex': 'Male', 'insurance_company': 'student', 'insurance_member_id': 'ljkhlkjhlkjh', 'effective_date_of_insurance': '2024-11-23', 'secondary_insurance_company': 'student', 'secondary_insurance_member_id': 'lkn', 'created_at': '2024-12-09T12:04:44.898Z', 'updated_at': '2024-12-09T12:04:44.898Z', 'web_upload_status': 'Need to Upload', 'medical_record_number': 'nlk', 'eligibility_status': 'nkljnbl'}
+2024-12-09 12:06:01.260744 - Login completed successfully.
+2024-12-09 12:06:18.032742 - Patient details entered.
+2024-12-09 12:06:19.390993 - Patient saved successfully.

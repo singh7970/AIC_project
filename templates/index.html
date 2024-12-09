@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Patient</title>
+    <style>
+        body {
+            background-color: lightblue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .form-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 500px;
+            width: 100%;
+            text-align: center; /* Center all text inside */
+            margin-top: 20px; /* Add margin from the top */
+        }
+        .side-box {
+            background: #f8f9fa;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h5, p {
+            margin: 0;
+            margin-bottom: 10px;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        button {
+            margin-top: 20px; /* Add spacing above the button */
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <div class="side-box">
+            <h5>Instructions</h5>
+            <p>Please fill out the form carefully and ensure all details are accurate before submitting.</p>
+        </div>
+        <h1 class="text-center">Add Patient</h1>
+        <form method="Post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="btn btn-primary w-100">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
